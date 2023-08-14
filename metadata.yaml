@@ -1,0 +1,24 @@
+_repo: The-Holy-Land-and-Syria_71363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Frank George
+    gutenberg_agent_id: '56191'
+    url: http://www.gutenberg.org/2009/agents/56191
+description: ''
+gutenberg_issued: '2023-08-07'
+identifiers:
+  gutenberg: '71363'
+language: en
+pgterms:marc904: https://archive.org/details/holylandsyria00carprich
+pgterms:marc905: 20210117041700carpenter
+pgterms:marc906: '1922'
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Holy Land and Syria
+url: http://www.gutenberg.org/ebooks/71363
