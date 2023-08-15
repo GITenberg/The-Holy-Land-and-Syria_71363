@@ -1,11 +1,16 @@
 _repo: The-Holy-Land-and-Syria_71363
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71363-h/images/cover.jpg
 creator:
   author:
     agent_name: Carpenter, Frank George
     gutenberg_agent_id: '56191'
     url: http://www.gutenberg.org/2009/agents/56191
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71363#The-Holy-Land-and-Syria
 gutenberg_issued: '2023-08-07'
 identifiers:
   gutenberg: '71363'
